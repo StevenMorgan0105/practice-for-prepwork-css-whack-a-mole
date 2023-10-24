@@ -2,6 +2,8 @@
 height: 640px;
 position: relative;
 width: 482px;
+display: inline-block;
+margin-right: 200px;
 }
 
 .mole_head {
@@ -20,9 +22,7 @@ width: 482px;
   width: 640px;
 }
 
-.block {
-  display: inline-block;
-}
+
 
 
 /* UNCOMMENT THE CODE BELOW WHEN DIRECTED */
