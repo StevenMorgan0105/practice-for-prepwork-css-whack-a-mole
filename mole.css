@@ -1,5 +1,28 @@
-/* Your code here */
+.mole_game {
+height: 640px;
+position: relative;
+width: 482px;
+}
 
+.mole_head {
+  height: 376px;
+  position: absolute;
+  left: 109px;
+  top: 155px;
+  width: 376px
+}
+
+.dirt_pile {
+  height: 220px;
+  position: absolute;
+  bottom:0;
+  left: 7px;
+  width: 640px;
+}
+
+.block {
+  display: inline-block;
+}
 
 
 /* UNCOMMENT THE CODE BELOW WHEN DIRECTED */
